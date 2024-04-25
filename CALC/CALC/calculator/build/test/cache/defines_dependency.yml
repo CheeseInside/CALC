@@ -1,0 +1,7 @@
+---
+src/get_number.c:
+- TEST
+build/test/mocks/mock_get_number.c:
+- TEST
+src/sum.c:
+- TEST

@@ -1,0 +1,38 @@
+---
+:source:
+  :path: test
+  :file: test_get_number.c
+:successes:
+- :test: test_empty_string_should_return_0
+  :line: 15
+  :message: ''
+  :unity_test_time: 0
+- :test: test_string_298_should_return_298
+  :line: 26
+  :message: ''
+  :unity_test_time: 0
+- :test: test_string_298a_should_return_298
+  :line: 37
+  :message: ''
+  :unity_test_time: 0
+- :test: test_string_space_298_should_return_298
+  :line: 48
+  :message: ''
+  :unity_test_time: 0
+- :test: test_sum_read_space_with_5_as_5
+  :line: 58
+  :message: ''
+  :unity_test_time: 0
+- :test: test_string_298_space_should_return_298
+  :line: 68
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 6
+  :passed: 6
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.019599499995820224
